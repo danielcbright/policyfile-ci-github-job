@@ -1,3 +1,3 @@
 
 @Library('policyOps')_
-policyOps()
+policyOpsGitHub()
